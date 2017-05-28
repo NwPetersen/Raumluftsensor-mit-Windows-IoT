@@ -10,7 +10,7 @@ using Windows.UI.Xaml.Navigation;
 using ThingSpeakWinRT;
 
 /*******************************************************************************
- * *********************MG-811 Gas Sensor Module********************************
+ * *********************Raumluftsensor mit Windows IoT**************************
  * 
  * Author: Niklas Petersen
  *         Thorben Brodersen
