@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="IoT_Gassensoren.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:grafik="using:WinRTXamlToolkit.Controls.DataVisualization.Charting"
+    xmlns:local="using:IoT_Gassensoren"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Height="768" Width="1024">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+        
+        <Image Width="500" Height="500" Source="ms-appx:///Assets/ThingSpeakChannel277803.jpg" />
+
+        <TextBlock TextAlignment="Center" Margin="0,10,10,629" FontSize="42" FontWeight="Bold">
+                IoT Projekt SS107 - Raumluft
+        </TextBlock>
+
+        <TextBlock TextAlignment="Center" Margin="0,94,10,545" FontSize="42" >
+                von Thorben Brodersen und Niklas Petersen
+        </TextBlock>
+
+        <TextBlock TextAlignment="Center" Margin="0,639,10,0" FontSize="28" >
+            Um die Daten zu sehen, scanne den QR-Code oder gehe auf diese Website: 
+            <LineBreak/> 
+            https://thingspeak.com/channels/277803
+        </TextBlock>
+
+    </Grid>
+</Page>
