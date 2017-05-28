@@ -9,3 +9,6 @@ Bei dem diesem Projekt handelt es sich um ein Projekt welches im Rahmen der IoT 
 
 
 Note:    The Equation for the CO2 Sensor is in the CO2Timer_Tick Methode. 
+
+
+Das Video zu diesem Projekt: https://youtu.be/MM9jH64PyZ8
